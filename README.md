@@ -18,8 +18,10 @@ I've worked on projects that impact hundreds of thousands of users daily, always
 
 ### 🛠️ Technologies and Tools
 
-![React/React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge)
@@ -33,7 +35,6 @@ I've worked on projects that impact hundreds of thousands of users daily, always
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrey-gil&show_icons=true&theme=react&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrey-gil&theme=react&hide_border=true" width="47%" />
 </p>
 
