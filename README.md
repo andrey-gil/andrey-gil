@@ -46,7 +46,7 @@ I've worked on projects that impact hundreds of thousands of users daily, always
 
 ### 📫 How to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrey-gil/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andreygil/)
 [![E-mail](https://img.shields.io/badge/-E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andreygil.db@gmail.com)
 
 ---
