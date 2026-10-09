@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Andrey Gil 👋</h1>
 
 <p align="center">
-Software Engineer with over 6 years of experience | React and React Native Specialist | Lover of technology, UX, and impactful solutions.
+Software Engineer with over 8 years of experience | React and React Native Specialist | Lover of technology, UX, and impactful solutions.
 </p>
 
 ---
